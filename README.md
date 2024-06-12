@@ -35,7 +35,7 @@ DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/DRDO-DYSL-Speech-Recognition.git
+git clone https://github.com/vikramkumar402/DRDO-DYSL-Speech-Recognition.git
 cd DRDO-DYSL-Speech-Recognition
 ```
 
