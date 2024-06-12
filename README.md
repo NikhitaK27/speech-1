@@ -58,7 +58,7 @@ You can run this project using Google Colab, which allows you to execute the not
 ### Running on Google Colab
 
 1. **Open the Notebook in Colab**:
-   - Navigate to the GitHub repository where the notebook `[TASK_1_DRDO.ipynb](https://colab.research.google.com/drive/1u88709G27sinBHp8ysvv_0YyGIo8wr5m?usp=sharing)` is hosted.
+   - Navigate to the GitHub repository where the notebook [TASK_1_DRDO.ipynb](https://colab.research.google.com/drive/1u88709G27sinBHp8ysvv_0YyGIo8wr5m?usp=sharing) is hosted.
    - Open the notebook file and click on the "Open in Colab" button usually available at the top of the file in GitHub.
 
 2. **Run the Notebook**:
