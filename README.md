@@ -11,6 +11,8 @@ DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing 
 - [Running the Project](#running-the-project)
 - [How to Use](#how-to-use)
 - [Tools and Technologies](#tools-and-technologies)
+- [Results](#results)
+- [Conclusion](#conclusion)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -119,6 +121,27 @@ If you prefer to run the project locally, follow these steps:
   </tr>
 </table>
 
+
+## Results
+
+The performance of the speech recognition model was evaluated using the Character Error Rate (CER), which is a common metric in speech and handwriting recognition that measures the minimal number of character insertions, deletions, and substitutions required to change the recognized text into the reference text.
+
+Here are the results tabulated:
+
+| Dataset          | Average CER  |
+|------------------|--------------|
+| Train-Clean-100  | 0.002039     |
+| Train-Clean-360  | 0.001401     |
+| Test-Clean       | 0.008527     |
+| Test-Other       | 0.011143     |
+
+These results indicate a high level of accuracy in the transcription of audio from the LibriSpeech dataset, especially in cleaner audio conditions.
+
+## Conclusion
+
+The low CER values demonstrate the effectiveness of the Wav2Vec2 model in transcribing audio accurately under diverse conditions. The model shows exceptional performance on cleaner datasets (train-clean-100 and train-clean-360) and maintains good accuracy even in more challenging datasets (test-clean and test-other).
+
+This project highlights the potential of using advanced deep learning models for robust speech-to-text applications. Future improvements might include fine-tuning the model on specific accents or dialects to further enhance its accuracy and versatility in real-world applications.
 ## Contributing
 
 To contribute:
