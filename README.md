@@ -137,8 +137,6 @@ Distributed under the MIT License. See `LICENSE` for more similar items.
 
 Vikram Kumar - vikramk.ug22.cs@nitp.ac.in
 
-LinkedIn: [linkedin.com/in/vikramkumar2510/](https://www
-
-.linkedin.com/in/vikramkumar2510/)
+LinkedIn: [linkedin.com/in/vikramkumar2510/](https://www.linkedin.com/in/vikramkumar2510/)
 
 Project Link: [DRDO-DYSL Speech Recognition](https://github.com/vikramkumar402/DRDO-DYSL-Speech-Recognition)
