@@ -137,7 +137,6 @@ This structured use of the dataset helps in pinpointing the strengths and limita
 
 The performance of the speech recognition model was evaluated using the Character Error Rate (CER), which is a common metric in speech and handwriting recognition that measures the minimal number of character insertions, deletions, and substitutions required to change the recognized text into the reference text.
 
-Here are the results tabulated:
 
 | Dataset          | Average CER  |
 |------------------|--------------|
