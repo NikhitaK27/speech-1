@@ -1,4 +1,4 @@
-
+wh
 # DRDO-DYSL Speech Recognition
 
 DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing audio content accurately. It focuses on utilizing advanced models like Wav2Vec2 for converting spoken language into written text and is designed for ease of use and high accuracy in diverse environments.
@@ -59,18 +59,9 @@ You can run this project using Google Colab, which allows you to execute the not
 
 ### Running on Google Colab
 
-1. **Open the Notebook in Colab**:
-   - Navigate to the GitHub repository where the notebook [TASK_1_DRDO.ipynb](https://colab.research.google.com/drive/1u88709G27sinBHp8ysvv_0YyGIo8wr5m?usp=sharing) is hosted.
-   - Open the notebook file and click on the "Open in Colab" button usually available at the top of the file in GitHub.
+Click the button below to open the Jupyter notebook in Google Colab:
 
-2. **Run the Notebook**:
-   - Once in Google Colab, you can run the notebook cell by cell or run all cells at once using the runtime options.
-
-3. **Install Dependencies**:
-   - Before executing the cells, ensure that all dependencies are installed by running the following cell at the beginning of the notebook:
-     ```bash
-     !pip install torch torchaudio librosa transformers jiwer
-     ```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikramkumar402/DRDO-DYSL-Speech-Recognition)
 
 ### Local Setup
 
