@@ -9,7 +9,6 @@ DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing 
 - [Prerequisites](#prerequisites)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Project](#running-the-project)
-- [How to Use](#how-to-use)
 - [Dataset](#dataset)
 - [Tools and Technologies](#tools-and-technologies)
 - [Results](#results)
