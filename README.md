@@ -10,6 +10,7 @@ DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing 
 - [Setup and Installation](#setup-and-installation)
 - [Running the Project](#running-the-project)
 - [How to Use](#how-to-use)
+- [Dataset](#dataset)
 - [Tools and Technologies](#tools-and-technologies)
 - [Results](#results)
 - [Conclusion](#conclusion)
@@ -95,7 +96,27 @@ If you prefer to run the project locally, follow these steps:
    ```bash
    python task_1_drdo.py
    ```
+## Dataset
 
+This project leverages the *LibriSpeech Dataset*, an extensive collection of approximately 1000 hours of English speech recorded at a 16kHz sampling rate. Originating from read audiobooks in the LibriVox project, this dataset is well-recognized in the research community for speech recognition tasks.
+
+### Dataset Details:
+
+- *Source*: Derived from audiobooks available on LibriVox.
+- *Audio Quality*: All audio files are at 16kHz, which is suitable for voice recognition systems.
+- *Variety*: The dataset includes multiple subsets categorized by the cleanliness of the recordings and the diversity of accents and speaking styles. For this project, the following subsets are used:
+  - *Train-Clean-100*: 100 hours of clean training data, ideal for initial model training.
+  - *Train-Clean-360*: 360 hours of clean training data, used for more extensive training to improve model robustness.
+  - *Test-Clean*: Clean test data used for final model evaluation.
+  - *Test-Other*: More challenging test data that includes a variety of accents and more complex audio scenarios.
+
+### Usage in the Project:
+
+The LibriSpeech dataset was integral to developing and testing the speech recognition model. Using different subsets allowed for a thorough evaluation of the model's accuracy across varying audio conditions:
+- *Training Phase*: Utilized 'Train-Clean-100' and 'Train-Clean-360' for training the model, focusing on understanding and accurately transcribing clean speech.
+- *Testing Phase*: Tested the model using 'Test-Clean' to assess performance under ideal conditions and 'Test-Other' to evaluate robustness in handling diverse and challenging audio scenarios.
+
+This structured use of the dataset helps in pinpointing the strengths and limitations of the speech recognition model, providing clear pathways for further enhancements.
 ## Tools and Technologies
 
 <table>
