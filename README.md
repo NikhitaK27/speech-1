@@ -1,7 +1,7 @@
 
-# DRDO-DYSL Speech Recognition
+# Task-1 Speech Recognition
 
-DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing audio content accurately. It focuses on utilizing advanced models like Wav2Vec2 for converting spoken language into written text and is designed for ease of use and high accuracy in diverse environments.
+Task-1-Speech-Recognition is a comprehensive Python project for transcribing audio content accurately. It focuses on utilizing advanced models like Wav2Vec2 for converting spoken language into written text and is designed for ease of use and high accuracy in diverse environments.
 
 ## Table of Contents
 
@@ -37,8 +37,8 @@ DRDO-DYSL Speech Recognition is a comprehensive Python project for transcribing 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vikramkumar402/DRDO-DYSL-Speech-Recognition.git
-cd DRDO-DYSL-Speech-Recognition
+git clone https://github.com/vikramkumar402/Task-1-Speech-Recognition.git
+cd Task-1-Speech-Recognition
 ```
 
 ### Installation
@@ -69,8 +69,8 @@ If you prefer to run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-github-username/DRDO-DYSL-Speech-Recognition.git
-   cd DRDO-DYSL-Speech-Recognition
+   git clone https://github.com/your-github-username/Task-1-Speech-Recognition.git
+   cd Task-1-Speech-Recognition
    ```
 
 2. **Install Dependencies**:
@@ -172,4 +172,4 @@ Vikram Kumar - vikramk.ug22.cs@nitp.ac.in
 
 LinkedIn: [linkedin.com/in/vikramkumar2510/](https://www.linkedin.com/in/vikramkumar2510/)
 
-Project Link: [DRDO-DYSL Speech Recognition](https://github.com/vikramkumar402/DRDO-DYSL-Speech-Recognition)
+Project Link: [Task-1-Speech-Recognition](https://github.com/vikramkumar402/Task-1-Speech-Recognition)
