@@ -61,7 +61,7 @@ You can run this project using Google Colab, which allows you to execute the not
 
 Click the button below to open the Jupyter notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikramkumar402/DRDO-DYSL-Speech-Recognition)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikramkumar402/Task-1-Speech-Recognition/blob/main/TASK_1_DRDO.ipynb)
 
 ### Local Setup
 
