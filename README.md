@@ -61,7 +61,7 @@ You can run this project using Google Colab, which allows you to execute the not
 
 Click the button below to open the Jupyter notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikramkumar402/Task-1-Speech-Recognition/blob/main/TASK_1_DRDO.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikramkumar402/Task-1-Speech-Recognition/blob/main/TASK_1.ipynb)
 
 ### Local Setup
 
@@ -84,7 +84,7 @@ If you prefer to run the project locally, follow these steps:
 
 3. **Run the Script**:
    ```bash
-   python task_1_drdo.py
+   python task_1.py
    ```
 ## Dataset
 
