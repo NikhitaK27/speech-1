@@ -168,8 +168,8 @@ Distributed under the MIT License. See `LICENSE` for more similar items.
 
 ## Contact
 
-Vikram Kumar - vikramk.ug22.cs@nitp.ac.in
+Nikhitha-nikhita21110437@snuchennai.edu.in
 
-LinkedIn: [linkedin.com/in/vikramkumar2510/](https://www.linkedin.com/in/vikramkumar2510/)
+LinkedIn: [www.linkedin.com/in/nikhita-sai271003](https://www.linkedin.com/in/nikhita-sai-k-65743525a/)
 
-Project Link: [Task-1-Speech-Recognition](https://github.com/vikramkumar402/Task-1-Speech-Recognition)
+Project Link: [Speech-1](https://github.com/NikhitaK27/speech-1.git)
